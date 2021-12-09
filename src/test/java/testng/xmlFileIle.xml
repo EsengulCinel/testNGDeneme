@@ -1,0 +1,15 @@
+<suite name="MySuite">
+    <tests name="MyTests">
+        <test name="Test1">
+            <classes>
+                <class name="testng.xmlFileIle"></class>
+                <class name="testng.testt"></class>
+            </classes>
+        </test>
+        <test>
+            <classes>
+                <class name="testng.priorry"></class>
+            </classes>
+        </test>
+    </tests>
+</suite>
